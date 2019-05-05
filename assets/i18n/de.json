@@ -1,0 +1,14 @@
+{
+  "title": "Sonnenaufgangswecker",
+  "create_alarm": "Weckzeit erstellen",
+  "about": "Eine kleine App die zum Üben und für MSI entstanden ist.\nNutzt https://sunrise-sunset.org/api zum Abfragen der Sonnenaufgangszeit.",
+  "no_alarms_info": "Fügen Sie neue Weckzeiten mit dem + hinzu. Und löschen Sie Weckzeiten mit einem Wisch nach Links.",
+  "alarm_removed": "Weckzeit gelöscht",
+  "offset": "Abweichung zum Sonnenaufgang einstellen",
+  "alarm_time": "Aktuelle Weckzeit",
+  "error_connection": "Error: Keine Verbindung",
+  "selectedDays": "Wiederholen an folgenden Tagen",
+  "save_no_internet": "Wecker kann nicht gespeichert werden, da keine Verbindung hergestellt werden konnte.",
+  "save": "Speichern",
+  "about": "Impressum"
+}
